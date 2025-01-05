@@ -1,5 +1,5 @@
 # Embedded-system(ES-101)
-## 모듈을 이용한 하드웨어 제어, Device Driver 및 사용자 프로그램을 통한 하드웨어 제어 프로젝트
+## (1)모듈을 이용한 하드웨어 제어<br/> (2)Device Driver 및 사용자 프로그램을 통한 하드웨어 제어 프로젝트
 
 ### 1. 전체 모드(전체 LED가 2초 간격으로 꺼짐과 켜짐을 반복)<br/>
 <img src="https://github.com/user-attachments/assets/b662857d-9485-431a-82fa-305458a6953c" width=40%><br/>

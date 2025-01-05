@@ -1,4 +1,4 @@
-# Embedded-system
+# Embedded-system(ES-101)
 ### 1. 전체 모드(전체 LED가 2초 간격으로 꺼짐과 켜짐을 반복)<br/>
 <img src="https://github.com/user-attachments/assets/b662857d-9485-431a-82fa-305458a6953c" width=40%><br/>
 ### 2. 개별 모드(개별 LED가 2초 간격으로 하나씩만 켜짐)<br/>
